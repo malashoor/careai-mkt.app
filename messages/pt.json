@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "title": "CareAI — Soluções de Saúde Impulsionadas por IA",
+    "description": "Transforme o cuidado ao paciente com automação inteligente e análise preditiva.",
+    "ogTitle": "CareAI — Soluções de Saúde Impulsionadas por IA",
+    "ogDescription": "Ferramentas de IA para famílias, cuidadores e provedores.",
+    "canonical": "https://www.careai.app"
+  },
+  "navigation": {
+    "features": "Recursos",
+    "partners": "Parceiros",
+    "pricing": "Preços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "signIn": "Entrar",
+    "getStarted": "Começar",
+    "getStartedFree": "Começar (Grátis)"
+  },
+  "hero": {
+    "title": "Soluções de Saúde Impulsionadas por IA",
+    "subtitle": "Transforme o cuidado ao paciente com automação inteligente, análise preditiva e integração perfeita em todos os sistemas de saúde.",
+    "ctaPrimary": "Começar",
+    "ctaSecondary": "Saiba mais",
+    "features": {
+      "safeSecure": "Seguro e Protegido",
+      "easyToUse": "Fácil de Usar",
+      "familyFirst": "Família em Primeiro Lugar"
+    }
+  },
+  "features": {
+    "title": "Recursos Principais",
+    "subtitle": "Soluções abrangentes de IA que transformam a prestação de cuidados de saúde.",
+    "carePlans": {
+      "title": "Planos de Cuidados e Tarefas",
+      "description": "Coordene tarefas, medicamentos e rotinas com atualizações em tempo real para famílias e cuidadores."
+    },
+    "predictiveInsights": {
+      "title": "Insights Preditivos",
+      "description": "A IA revela tendências e alertas precoces de notas diárias e histórico de sinais vitais."
+    },
+    "aiAssistance": {
+      "title": "Assistência de IA",
+      "description": "Sugestões inteligentes, lembretes e resumos que economizam tempo para os cuidadores."
+    }
+  },
+  "pricing": {
+    "title": "Preços Simples e Transparentes",
+    "subtitle": "Escolha o plano que se adapta às suas necessidades. Todos os planos incluem recursos básicos do CareAI.",
+    "tiers": {
+      "basic": {
+        "name": "Básico",
+        "price": "Grátis",
+        "description": "Perfeito para indivíduos e pequenas famílias",
+        "features": ["Até 3 membros da família", "Planos de cuidados básicos", "Lembretes de medicamentos", "Insights de saúde"]
+      },
+      "pro": {
+        "name": "Profissional",
+        "price": "9$/mês",
+        "description": "Ideal para famílias maiores e cuidadores",
+        "features": ["Até 10 membros da família", "Planos de cuidados avançados", "Insights alimentados por IA", "Suporte prioritário"]
+      },
+      "team": {
+        "name": "Equipe",
+        "price": "29$/mês",
+        "description": "Para equipes de cuidados de saúde e organizações",
+        "features": ["Membros ilimitados", "Colaboração em equipe", "Análises avançadas", "Integrações personalizadas"]
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre o CareAI",
+    "intro": "Somos uma startup em estágio inicial que constrói soluções de IA seguras e úteis para idosos e cuidadores.",
+    "mission": {
+      "title": "Nossa Missão",
+      "body": "Acreditamos que toda equipe de cuidados merece ferramentas simples e acessíveis que melhorem a segurança e a qualidade de vida. O CareAI combina conversa inteligente com fluxos de trabalho de cuidadores para reduzir a complexidade e aumentar a adesão — sem pretender substituir o julgamento clínico."
+    },
+    "partnerships": {
+      "title": "Parcerias Estratégicas",
+      "body": "Estamos procurando parceiros para programas piloto: médicos, casas de repouso, seguradoras e sistemas de saúde. Se você está interessado em desenvolver recursos ou medir resultados conosco, adoraríamos nos conectar.",
+      "orgBtn": "Organizações",
+      "contactBtn": "Entre em Contato"
+    },
+    "vision": {
+      "title": "Nossa Visão",
+      "body": "Vemos um futuro onde cada idoso tem um companheiro digital confiável que o ajuda a viver de forma independente por mais tempo, onde as famílias se sentem seguras sabendo que seus entes queridos estão seguros, e onde os parceiros de saúde podem escalar enquanto se concentram no lado humano dos cuidados."
+    },
+    "values": {
+      "safety": "Segurança Primeiro",
+      "simplicity": "Simplicidade no Design",
+      "accessibility": "Acessibilidade para Todos"
+    }
+  },
+  "contact": {
+    "title": "Entre em contato",
+    "subtitle": "Perguntas, parcerias ou imprensa — adoraríamos ouvir de você.",
+    "form": {
+      "name": "Nome completo",
+      "email": "Endereço de e-mail",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem"
+    }
+  },
+  "testimonial": {
+    "quote": "O CareAI ajudou nossa família a coordenar o cuidado diário sem caos. Tarefas, lembretes e insights de saúde em um só lugar.",
+    "attribution": "— Uma família cuidadora"
+  },
+  "cta": {
+    "title": "Pronto para experimentar o CareAI?",
+    "subtitle": "Junte-se a milhares de usuários que confiam no CareAI para suas necessidades de saúde"
+  },
+  "footer": {
+    "tagline": "Ferramentas impulsionadas por IA para famílias e cuidadores.",
+    "product": "Produto",
+    "company": "Empresa",
+    "rights": "© 2025 CareAI. Todos os direitos reservados."
+  },
+  "legal": {
+    "privacy": "Privacidade",
+    "terms": "Termos"
+  },
+  "language": {
+    "en": "EN",
+    "ar": "AR",
+    "es": "ES",
+    "fr": "FR",
+    "de": "DE",
+    "zh": "ZH",
+    "ja": "JA",
+    "ko": "KO",
+    "hi": "HI",
+    "pt": "PT"
+  },
+  "partners": {
+    "title": "Nossos Parceiros",
+    "subtitle": "Trabalhando com organizações de saúde líderes para melhorar os resultados dos pacientes através de soluções alimentadas por IA",
+    "trusted": "Confiado pelos Líderes da Indústria",
+    "cards": {
+      "hospitals": {
+        "title": "Hospitais e Sistemas de Saúde",
+        "desc": "Instituições de saúde líderes que aproveitam a IA para otimização do atendimento ao paciente"
+      },
+      "insurance": {
+        "title": "Fornecedores de Seguros",
+        "desc": "Empresas de seguros inovadoras focadas em cuidados preventivos e redução de custos"
+      },
+      "pharmacies": {
+        "title": "Farmácias",
+        "desc": "Redes de farmácias integrando gestão de medicamentos e monitoramento de saúde"
+      }
+    }
+  }
+}

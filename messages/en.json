@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "CareAI — AI-Powered Healthcare Solutions",
+    "description": "Transform patient care with intelligent automation and predictive analytics.",
+    "ogTitle": "CareAI — AI-Powered Healthcare Solutions",
+    "ogDescription": "AI tools for families, caregivers, and providers.",
+    "canonical": "https://www.careai.app"
+  },
+  "navigation": {
+    "features": "Features",
+    "partners": "Partners",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign in",
+    "getStarted": "Get Started",
+    "getStartedFree": "Get Started (Free)"
+  },
+  "hero": {
+    "title": "AI-Powered Healthcare Solutions",
+    "subtitle": "Transform patient care with intelligent automation, predictive analytics, and seamless integration across healthcare systems.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Learn More",
+    "features": {
+      "safeSecure": "Safe & Secure",
+      "easyToUse": "Easy to Use",
+      "familyFirst": "Family-First"
+    }
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Comprehensive AI solutions that transform healthcare delivery.",
+    "carePlans": {
+      "title": "Care Plans & Tasks",
+      "description": "Coordinate tasks, meds, and routines with real-time updates for families and caregivers."
+    },
+    "predictiveInsights": {
+      "title": "Predictive Insights",
+      "description": "AI surfaces trends and early warnings from daily notes and vitals history."
+    },
+    "aiAssistance": {
+      "title": "AI Assistance",
+      "description": "Smart suggestions, reminders, and summaries that save time for caregivers."
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your needs. All plans include core CareAI features.",
+    "tiers": {
+      "basic": {
+        "name": "Basic",
+        "price": "Free",
+        "description": "Perfect for individuals and small families",
+        "features": ["Up to 3 family members", "Basic care plans", "Medication reminders", "Health insights"]
+      },
+      "pro": {
+        "name": "Professional",
+        "price": "$9/month",
+        "description": "Ideal for larger families and caregivers",
+        "features": ["Up to 10 family members", "Advanced care plans", "AI-powered insights", "Priority support"]
+      },
+      "team": {
+        "name": "Team",
+        "price": "$29/month",
+        "description": "For healthcare teams and organizations",
+        "features": ["Unlimited members", "Team collaboration", "Advanced analytics", "Custom integrations"]
+      }
+    }
+  },
+  "about": {
+    "title": "About CareAI",
+    "intro": "We are an early-stage startup building safe and useful AI solutions for seniors and caregivers.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "We believe every care team deserves simple, affordable tools that improve safety and quality of life. CareAI combines intelligent conversation with caregiver workflows to reduce complexity and increase adherence — without claiming to replace clinical judgment."
+    },
+    "partnerships": {
+      "title": "Strategic Partnerships",
+      "body": "We're looking for partners for pilot programs: doctors, care homes, insurance companies, and health systems. If you're interested in developing features or measuring outcomes with us, we'd love to connect.",
+      "orgBtn": "Organizations",
+      "contactBtn": "Contact Us"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "We see a future where every senior has a trusted digital companion helping them live independently longer, where families feel secure knowing their loved ones are safe, and where healthcare partners can scale while focusing on the human side of care."
+    },
+    "values": {
+      "safety": "Safety First",
+      "simplicity": "Simplicity in Design",
+      "accessibility": "Accessibility for All"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Questions, partnerships, or press — we'd love to hear from you.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "testimonial": {
+    "quote": "CareAI helped our family coordinate daily care without the chaos. Tasks, reminders, and health insights in one place.",
+    "attribution": "— A caregiver family"
+  },
+  "cta": {
+    "title": "Ready to try CareAI?",
+    "subtitle": "Join thousands of users who trust CareAI for their healthcare needs"
+  },
+  "footer": {
+    "tagline": "AI-powered tools for families and caregivers.",
+    "product": "Product",
+    "company": "Company",
+    "rights": "© 2025 CareAI. All rights reserved."
+  },
+  "legal": {
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "language": {
+    "en": "EN",
+    "ar": "AR",
+    "es": "ES",
+    "fr": "FR",
+    "de": "DE",
+    "zh": "ZH",
+    "ja": "JA",
+    "ko": "KO",
+    "hi": "HI",
+    "pt": "PT"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "Working with leading healthcare organizations to improve patient outcomes through AI-powered solutions",
+    "trusted": "Trusted by Industry Leaders",
+    "cards": {
+      "hospitals": {
+        "title": "Hospitals & Health Systems",
+        "desc": "Leading healthcare institutions leveraging AI for patient care optimization"
+      },
+      "insurance": {
+        "title": "Insurance Providers",
+        "desc": "Innovative insurance companies focused on preventive care and cost reduction"
+      },
+      "pharmacies": {
+        "title": "Pharmacies",
+        "desc": "Pharmacy chains integrating medication management and health monitoring"
+      }
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome to CareAI",
+    "signedInAs": "You're signed in as {{email}}",
+    "medsToday": "Meds Today",
+    "remindersDue": "Reminders Due",
+    "mood": "Mood",
+    "hydration": "Hydration",
+    "carePlans": "Care Plans",
+    "carePlansDesc": "Manage your care plans and tasks",
+    "insights": "Health Insights",
+    "insightsDesc": "View AI-powered health analytics",
+    "notifications": "Notifications",
+    "notificationsDesc": "Stay updated with important alerts",
+    "weeklyTrends": "Weekly Trends",
+    "recentNotifications": "Recent Notifications",
+    "viewAll": "View all",
+    "signOut": "Sign out",
+    "sampleDataNote": "Trends use sample data until real vitals are connected."
+  }
+}

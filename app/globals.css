@@ -1,0 +1,44 @@
+@import '../../packages/ui-tokens/fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-start: 255 255 255;
+  --bg-end: 245 246 248;
+}
+
+html, body {
+  background: linear-gradient(
+    180deg,
+    rgb(var(--bg-start)) 0%,
+    rgb(var(--bg-end)) 100%
+  );
+}
+
+.prose :where(h1, h2, h3) { 
+  letter-spacing: -0.02em; 
+}
+
+/* Apple-like smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}

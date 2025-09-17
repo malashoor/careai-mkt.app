@@ -1,0 +1,158 @@
+{
+  "nav": { 
+    "features": "Features", 
+    "pricing": "Pricing", 
+    "about": "About", 
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "getStartedFree": "Get Started Free"
+  },
+  "cta": { 
+    "getStarted": "Get Started",
+    "title": "Ready to get started?",
+    "subtitle": "Join thousands of families already using CareAI",
+    "learnMore": "Learn More"
+  },
+  "hero": { 
+    "title": "Care, Connected.", 
+    "subtitle": "Companionship, health monitoring, and reminders for seniors.",
+    "features": {
+      "safeSecure": "Safe & Secure",
+      "easyToUse": "Easy to Use",
+      "familyFirst": "Family First"
+    }
+  },
+  "features": {
+    "title": "Features",
+    "subtitle": "Everything you need to care for your loved ones",
+    "carePlans": {
+      "title": "Personalized Care Plans",
+      "description": "AI-powered care plans tailored to each individual's needs"
+    },
+    "predictiveInsights": {
+      "title": "Predictive Insights",
+      "description": "Advanced analytics to predict and prevent health issues"
+    },
+    "aiAssistance": {
+      "title": "AI Assistance",
+      "description": "24/7 intelligent support and guidance"
+    },
+    "healthMonitoring": {
+      "title": "Health Monitoring",
+      "description": "Continuous health tracking and alerts"
+    },
+    "medicationReminders": {
+      "title": "Medication Reminders",
+      "description": "Never miss a dose with smart reminders"
+    },
+    "familyUpdates": {
+      "title": "Family Updates",
+      "description": "Keep family members informed and connected"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Choose the plan that's right for you",
+    "tiers": {
+      "basic": {
+        "name": "Basic",
+        "price": "$29/month",
+        "description": "Perfect for individuals",
+        "features": [
+          "Health monitoring",
+          "Medication reminders",
+          "Basic support"
+        ],
+        "cta": "Get Started"
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "$59/month",
+        "description": "Best for families",
+        "features": [
+          "Everything in Basic",
+          "Family dashboard",
+          "Priority support",
+          "Advanced analytics"
+        ],
+        "cta": "Get Started"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "description": "For healthcare organizations",
+        "features": [
+          "Everything in Premium",
+          "Custom integrations",
+          "Dedicated support",
+          "Compliance tools"
+        ],
+        "cta": "Contact Sales"
+      }
+    }
+  },
+  "about": {
+    "title": "About CareAI",
+    "subtitle": "Revolutionizing senior care through technology",
+    "intro": "We're transforming how families care for their loved ones through intelligent technology and compassionate design.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "Our mission is to provide compassionate, intelligent care solutions that enhance the quality of life for seniors and peace of mind for their families."
+    },
+    "partnerships": {
+      "title": "Strategic Partnerships",
+      "body": "We work with leading healthcare organizations to deliver exceptional patient care and improve outcomes.",
+      "orgBtn": "For Organizations",
+      "contactBtn": "Contact Us"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To create a world where every senior receives personalized, dignified care that respects their independence while ensuring their safety and well-being."
+    },
+    "values": {
+      "compassion": "Compassion",
+      "innovation": "Innovation",
+      "trust": "Trust",
+      "excellence": "Excellence"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "testimonial": {
+    "quote": "CareAI has transformed how we care for our elderly parents. The peace of mind it provides is invaluable.",
+    "attribution": "— Sarah Johnson, Family Caregiver"
+  },
+  "partners": { 
+    "title": "Trusted by partners",
+    "subtitle": "Leading healthcare organizations trust CareAI to deliver exceptional patient care.",
+    "trusted": "Trusted by leading healthcare organizations"
+  },
+  "footer": { 
+    "rights": "All rights reserved." 
+  },
+  "navigation": {
+    "getStartedFree": "Get Started Free"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिंदी",
+    "pt": "Português"
+  }
+}

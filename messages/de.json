@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "title": "CareAI — KI-gestützte Gesundheitslösungen",
+    "description": "Transformieren Sie die Patientenversorgung mit intelligenter Automatisierung und prädiktiver Analytik.",
+    "ogTitle": "CareAI — KI-gestützte Gesundheitslösungen",
+    "ogDescription": "KI-Tools für Familien, Pflegekräfte und Anbieter.",
+    "canonical": "https://www.careai.app"
+  },
+  "navigation": {
+    "features": "Funktionen",
+    "partners": "Partner",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "signIn": "Anmelden",
+    "getStarted": "Loslegen",
+    "getStartedFree": "Loslegen (Kostenlos)"
+  },
+  "hero": {
+    "title": "KI-gestützte Gesundheitslösungen",
+    "subtitle": "Transformieren Sie die Patientenversorgung mit intelligenter Automatisierung, prädiktiver Analytik und nahtloser Integration in alle Gesundheitssysteme.",
+    "ctaPrimary": "Loslegen",
+    "ctaSecondary": "Mehr erfahren",
+    "features": {
+      "safeSecure": "Sicher & Geschützt",
+      "easyToUse": "Einfach zu Bedienen",
+      "familyFirst": "Familie zuerst"
+    }
+  },
+  "features": {
+    "title": "Hauptfunktionen",
+    "subtitle": "Umfassende KI-Lösungen, die die Gesundheitsversorgung transformieren.",
+    "carePlans": {
+      "title": "Pflegepläne & Aufgaben",
+      "description": "Koordinieren Sie Aufgaben, Medikamente und Routinen mit Echtzeit-Updates für Familien und Pflegekräfte."
+    },
+    "predictiveInsights": {
+      "title": "Prädiktive Einblicke",
+      "description": "KI deckt Trends und Frühwarnungen aus täglichen Notizen und Vitalwerte-Historie auf."
+    },
+    "aiAssistance": {
+      "title": "KI-Unterstützung",
+      "description": "Intelligente Vorschläge, Erinnerungen und Zusammenfassungen, die Pflegekräften Zeit sparen."
+    }
+  },
+  "pricing": {
+    "title": "Einfache, Transparente Preise",
+    "subtitle": "Wählen Sie den Plan, der zu Ihren Bedürfnissen passt. Alle Pläne beinhalten Kern-CareAI-Funktionen.",
+    "tiers": {
+      "basic": {
+        "name": "Basis",
+        "price": "Kostenlos",
+        "description": "Perfekt für Einzelpersonen und kleine Familien",
+        "features": ["Bis zu 3 Familienmitglieder", "Grundlegende Pflegepläne", "Medikamentenerinnerungen", "Gesundheitserkenntnisse"]
+      },
+      "pro": {
+        "name": "Professionell",
+        "price": "9€/Monat",
+        "description": "Ideal für größere Familien und Pflegekräfte",
+        "features": ["Bis zu 10 Familienmitglieder", "Erweiterte Pflegepläne", "KI-gestützte Erkenntnisse", "Prioritäts-Support"]
+      },
+      "team": {
+        "name": "Team",
+        "price": "29€/Monat",
+        "description": "Für Gesundheitsteams und Organisationen",
+        "features": ["Unbegrenzte Mitglieder", "Team-Zusammenarbeit", "Erweiterte Analysen", "Benutzerdefinierte Integrationen"]
+      }
+    }
+  },
+  "about": {
+    "title": "Über CareAI",
+    "intro": "Wir sind ein Startup in der Frühphase, das sichere und nützliche KI-Lösungen für Senioren und Pflegekräfte entwickelt.",
+    "mission": {
+      "title": "Unsere Mission",
+      "body": "Wir glauben, dass jedes Pflegeteam einfache und erschwingliche Werkzeuge verdient, die Sicherheit und Lebensqualität verbessern. CareAI kombiniert intelligente Konversation mit Pflegekräfte-Workflows, um Komplexität zu reduzieren und Compliance zu erhöhen — ohne zu behaupten, das klinische Urteil zu ersetzen."
+    },
+    "partnerships": {
+      "title": "Strategische Partnerschaften",
+      "body": "Wir suchen Partner für Pilotprogramme: Ärzte, Pflegeheime, Versicherungsunternehmen und Gesundheitssysteme. Wenn Sie daran interessiert sind, Funktionen zu entwickeln oder Ergebnisse mit uns zu messen, würden wir gerne in Kontakt treten.",
+      "orgBtn": "Organisationen",
+      "contactBtn": "Kontaktieren Sie uns"
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "body": "Wir sehen eine Zukunft, in der jeder Senior einen vertrauenswürdigen digitalen Begleiter hat, der ihm hilft, länger unabhängig zu leben, in der sich Familien sicher fühlen, wenn sie wissen, dass ihre Liebsten sicher sind, und in der Gesundheitspartner wachsen können, während sie sich auf die menschliche Seite der Pflege konzentrieren."
+    },
+    "values": {
+      "safety": "Sicherheit zuerst",
+      "simplicity": "Einfachheit im Design",
+      "accessibility": "Zugänglichkeit für alle"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Fragen, Partnerschaften oder Presse — wir würden gerne von Ihnen hören.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    }
+  },
+  "testimonial": {
+    "quote": "CareAI half unserer Familie, die tägliche Pflege ohne Chaos zu koordinieren. Aufgaben, Erinnerungen und Gesundheitserkenntnisse an einem Ort.",
+    "attribution": "— Eine Pflegefamilie"
+  },
+  "cta": {
+    "title": "Bereit, CareAI zu testen?",
+    "subtitle": "Schließen Sie sich Tausenden von Nutzern an, die CareAI für ihre Gesundheitsbedürfnisse vertrauen"
+  },
+  "footer": {
+    "tagline": "KI-gestützte Tools für Familien und Pflegekräfte.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "rights": "© 2025 CareAI. Alle Rechte vorbehalten."
+  },
+  "legal": {
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "language": {
+    "en": "EN",
+    "ar": "AR",
+    "es": "ES",
+    "fr": "FR",
+    "de": "DE",
+    "zh": "ZH",
+    "ja": "JA",
+    "ko": "KO",
+    "hi": "HI",
+    "pt": "PT"
+  },
+  "partners": {
+    "title": "Unsere Partner",
+    "subtitle": "Zusammenarbeit mit führenden Gesundheitsorganisationen zur Verbesserung der Patientenergebnisse durch KI-gestützte Lösungen",
+    "trusted": "Vertraut von Branchenführern",
+    "cards": {
+      "hospitals": {
+        "title": "Krankenhäuser und Gesundheitssysteme",
+        "desc": "Führende Gesundheitseinrichtungen, die KI für die Optimierung der Patientenversorgung nutzen"
+      },
+      "insurance": {
+        "title": "Versicherungsanbieter",
+        "desc": "Innovative Versicherungsunternehmen, die sich auf Präventivpflege und Kostenreduzierung konzentrieren"
+      },
+      "pharmacies": {
+        "title": "Apotheken",
+        "desc": "Apothekenketten, die Arzneimittelverwaltung und Gesundheitsüberwachung integrieren"
+      }
+    }
+  }
+}
