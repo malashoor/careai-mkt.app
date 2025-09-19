@@ -1,11 +1,1 @@
 node_modules/
-.next/
-out/
-.netlify/
-playwright-report/
-test-results/
-__baseline__/
-__diff__/
-__screenshots__/
-*.log
-*.tsbuildinfo

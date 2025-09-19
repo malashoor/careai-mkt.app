@@ -1,7 +1,0 @@
-import { localeCodes } from "@/i18n/config";
-
-export async function generateStaticParams() {
-  return localeCodes.map((code) => ({ locale: code }));
-}
-
-

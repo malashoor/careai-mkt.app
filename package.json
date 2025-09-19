@@ -10,8 +10,7 @@
     "prod:test": "playwright test tests/marketing.prod.spec.ts",
     "seo:test": "ts-node scripts/test-sitemap-hreflang.ts",
     "screenshots": "node scripts/capture-screenshots.js",
-    "visual:compare": "node scripts/visual-compare.js",
-    "ts:check": "tsc -p tsconfig.json --noEmit"
+    "visual:compare": "node scripts/visual-compare.js"
   },
   "dependencies": {
     "@careai/ui-tokens": "file:../packages/ui-tokens",
