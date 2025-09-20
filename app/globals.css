@@ -2,18 +2,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import './brand-shim.css';
 
-:root {
-  --bg-start: 255 255 255;
-  --bg-end: 245 246 248;
+:root { 
+  color-scheme: dark; 
+  --bg-start: 11 19 36;
+  --bg-end: 11 19 36;
 }
 
-html, body {
-  background: linear-gradient(
-    180deg,
-    rgb(var(--bg-start)) 0%,
-    rgb(var(--bg-end)) 100%
-  );
+html, body { 
+  background:#0B1324; 
+  color:#E6EDF7; 
+}
+
+h1,h2,h3 { 
+  letter-spacing:-0.02em; 
+}
+
+a { 
+  text-underline-offset: 3px; 
 }
 
 .prose :where(h1, h2, h3) { 
